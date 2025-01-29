@@ -1,2 +1,2 @@
-# IS601 Homework 1
+# Hello professor
 ## This is my first homework assignment
